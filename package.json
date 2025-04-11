@@ -1,7 +1,7 @@
 {
-  "name": "mcp-etherscan-server",
+  "name": "@thirdguard/mcp-etherscan-server",
   "version": "1.0.0",
-  "description": "A TypeScript server boilerplate",
+  "description": "An MCP server that provides Ethereum blockchain data tools via Etherscan's API",
   "type": "module",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -19,9 +19,12 @@
     "LICENSE"
   ],
   "keywords": [
-    "typescript",
-    "server",
-    "boilerplate"
+    "mcp",
+    "etherscan",
+    "ethereum",
+    "blockchain",
+    "smart-contracts",
+    "web3"
   ],
   "author": "",
   "license": "MIT",
@@ -38,4 +41,4 @@
   "engines": {
     "node": ">=18"
   }
-} 
+}
