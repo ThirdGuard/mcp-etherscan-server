@@ -1,5 +1,7 @@
 # MCP Etherscan Server
 
+[![smithery badge](https://smithery.ai/badge/mcp-etherscan-server)](https://smithery.ai/server/mcp-etherscan-server)
+
 An MCP (Model Context Protocol) server that provides Ethereum blockchain data tools via Etherscan's API. Features include checking ETH balances, viewing transaction history, tracking ERC20 transfers, fetching contract ABIs, monitoring gas prices, and resolving ENS names.
 
 ## Features
@@ -18,6 +20,14 @@ An MCP (Model Context Protocol) server that provides Ethereum blockchain data to
 - An Etherscan API key (get one at https://etherscan.io/apis)
 
 ## Installation
+
+### Installing via Smithery
+
+To install MCP Etherscan Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/mcp-etherscan-server):
+
+```bash
+npx -y @smithery/cli install mcp-etherscan-server --client claude
+```
 
 1. Clone the repository:
 
