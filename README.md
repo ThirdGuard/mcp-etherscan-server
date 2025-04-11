@@ -105,8 +105,7 @@ To add this server to Cursor:
 
    ### Smithery
 
-   #### Using smithery.ai
-
+   #### Using smithery.ai (This step requires a smithery.ai account)
    1. Navigate to this URL in your web browser: https://smithery.ai/server/@ThirdGuard/mcp-etherscan-server
 
    2. Enter your Etherscan API key in the field `etherscanApiKey` and click the `connect` button
